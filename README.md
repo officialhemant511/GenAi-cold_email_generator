@@ -17,7 +17,7 @@ Using the LLM model and Langchain Chat Groq class, the system generates a person
 The generated email highlights the applicant's relevant skills and experiences that match the job requirements.
 
 # Installation
-    git clone https://github.com/officialhemant51/GenAi-cold_email_generator.git
+    git clone https://github.com/officialhemant511/GenAi-cold_email_generator.git
     cd GenAi-cold_email_generator
     pip install -r requirements.txt
 
